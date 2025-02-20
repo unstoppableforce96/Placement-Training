@@ -13,8 +13,6 @@
 SELECT table_name FROM user_tables
 ```
 
-     * oracle+oracledb://c%23%23pavan:***@localhost:1521/XE
-    0 rows affected.
     
 
 
@@ -62,8 +60,6 @@ SELECT table_name FROM user_tables
 SELECT * FROM users
 ```
 
-     * oracle+oracledb://c%23%23pavan:***@localhost:1521/XE
-    0 rows affected.
     
 
 
@@ -156,8 +152,6 @@ WHERE salary IS NOT NULL
 FETCH FIRST 5 ROWS ONLY
 ```
 
-     * oracle+oracledb://c%23%23pavan:***@localhost:1521/XE
-    0 rows affected.
     
 
 
@@ -243,8 +237,6 @@ GROUP BY u.id, u.name
 ORDER BY u.id
 ```
 
-     * oracle+oracledb://c%23%23pavan:***@localhost:1521/XE
-    0 rows affected.
     
 
 
