@@ -44,10 +44,10 @@ public class SumofSquares {
 }
 ```
 
-> **Input:**
-> 12
-> **Output:**
-> 500
+> **Input:**  
+> 12  
+> **Output:**  
+> 500  
 
 
 
